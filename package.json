@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/JonathanDn/gameOfThrones_characterNames/issues"
   },
-  "homepage": "https://github.com/JonathanDn/gameOfThrones_characterNames#readme"
+  "homepage": "https://github.com/JonathanDn/gameOfThrones_characterNames#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
 }
