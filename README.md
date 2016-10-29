@@ -1,2 +1,2 @@
 # gameOfThrones_characterNames
-This is a game of thrones character names API
+This is a game of thrones random character name picking library
