@@ -1,0 +1,25 @@
+{
+  "name": "gameofthrones-names",
+  "version": "1.0.0",
+  "description": "Get random Game of Thrones Names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonathanDn/gameOfThrones_characterNames.git"
+  },
+  "keywords": [
+    "random",
+    "game",
+    "of",
+    "thrones"
+  ],
+  "author": "Jonathan Doron <yonidn7@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JonathanDn/gameOfThrones_characterNames/issues"
+  },
+  "homepage": "https://github.com/JonathanDn/gameOfThrones_characterNames#readme"
+}
